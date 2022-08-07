@@ -1,0 +1,2 @@
+# dYdX Relayer
+This repo uses the `dot-vote-relayer` to relay transactions from `dydx.vote`. To run the relayer, create a `.env` file based on the `.env.sample`. Run `yarn install` and then `yarn start` and the relayer will be running.
